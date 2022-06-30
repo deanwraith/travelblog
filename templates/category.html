@@ -12,7 +12,7 @@ Catlist
     <div class="col-12 pb-5"><h1> List of {{catlist.cat}} posts</h1></div>
     {% for post in catlist.posts %}
         <div class="col-md-4">
-        <a class="text-dark" href="{{post.get_absolute_url}}">
+        <a class="text-dark" href="{{post.get_post_detail_url}}">
           <div class="card mb-4 box-shadow">
             <img class="card-img-top" src="https://codeinstitute.s3.amazonaws.com/fullstack/blog/default.jpg" alt="Card image cap">
             <div class="card-body">

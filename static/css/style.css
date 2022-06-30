@@ -6,15 +6,12 @@ body {
     font-family: Lato, sans-serif;
     font-size: 1.4rem;
     font-weight: 700;
-    color: #4A4A4F;
-}
-
-.red-o {
-    color: #E84610;
+    color: #006400;
 }
 
 .thin {
-    font-weight: 300;
+    font-weight: 400;
+    color: #BDB76B;
 }
 
 .light-bg {
@@ -43,11 +40,11 @@ body {
     bottom: 5%;
     min-width: 30%;
     left: -2px;
-    background-color: #23BBBB;
+    background-color: #BDB76B;
 }
 
 .author {
-    color: white;
+    color: #006400;
     margin: 4px;
     text-transform: uppercase;
 }
@@ -129,14 +126,14 @@ body {
 }
 
 .btn-like {
-    color: #E84610;
+    color: #006400;
     border: none;
     background: transparent;
 }
 
 .btn-like:hover,
 .btn-like:active {
-    color: #E84610;
+    color: #006400;
     background: transparent;
     border: none;
 }
