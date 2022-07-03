@@ -1,6 +1,5 @@
 # Hamba Uhambe Travel Blog
-![Website](https://github.com/deanwraith/rock_paper_scissors_game/blob/main/assets/images/responsive_display.png)
-https://deanwraith.github.io/rock_paper_scissors_game/
+![Website]()
 
 Hamba Uhambe is a travel blog where I post stories of various travels and trips I have taken in my life as a form of a journal to share with my family. Hamba Uhambe is Zulu for Go for a walk.
 
@@ -37,14 +36,14 @@ The goals for the first time user are to experience an easy to use and interesti
 ## Existing Features
 
 ### Landing Page Features
-* Header - A link that redirects from any page back to the landing page. The introduction text gives some background information to the game.
-![Home Page](https://github.com/deanwraith/rock_paper_scissors_game/blob/main/assets/images/landing_page_header_intro.png)
-* Rules - A youtube video that explains the rules of the game.
-![Category Page](https://github.com/deanwraith/rock_paper_scissors_game/blob/main/assets/images/landing_page_rules.png)
-* Game link - A link that redirects to the game page.
-![Login Form](https://github.com/deanwraith/rock_paper_scissors_game/blob/main/assets/images/landing_page_gamelink.png)
-* Feedback Form link - A link that redirects to the feedback form page.
-![Sign Up Form](https://github.com/deanwraith/rock_paper_scissors_game/blob/main/assets/images/landing_page_feedbacklink.png)
+* Homepage - Navbar with title, and links to category page and login, logout or sign up pages. Shows 6 posts before the rest are shifted to the next page.
+![Home Page](https://github.com/deanwraith/travelblog/blob/main/static/images/homepage.png)
+* Category Page - The dropdown bar automatically populates with categories added to the admin panel. each specific category page includes all the posts under that category.
+![Category Page](https://github.com/deanwraith/travelblog/blob/main/static/images/categorypage.png)
+* Login Form - Allows the user to log in so that they can like or comment on the various posts.
+![Login Form](https://github.com/deanwraith/travelblog/blob/main/static/images/login.png)
+* Sign Up Form - Allows new users to sign up with an email and password to like and comment on posts.
+![Sign Up Form](https://github.com/deanwraith/travelblog/blob/main/static/images/signup.png)
 
 [Back to Table of Contents](#table-of-contents)
 
@@ -107,7 +106,7 @@ The devices used were:
 
 ## Deployment
 
-The site has been deployed using Github Pages.
+The site has been deployed using Heroku.
 
 * In the Github repository page for deanwraith/rock_paper_scissors_game the settings tab was selected.
 
@@ -119,10 +118,9 @@ The site has been deployed using Github Pages.
     * Google fonts - The special fonts used for the project were sourced from Google fonts.
     * Font Awesome - The icons used in the project were sourced from Font Awesome
     * W3Schools - Used the resources as a guideline for various functionality and styling.
+    * Code Institute - Used the I Think Therefore I Blog walkthrough as a guideline.
     
 ### Media
-    * The background image I used in the site was downloaded from Shutterstock using the verified licences.
-    * The video was linked directly from the youtube account page.
-    * Gifs were sourced from Giphy website.
+    * Images are my personal images taken on my various outings.
 
 [Back to Table of Contents](#table-of-contents)
