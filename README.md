@@ -1,5 +1,5 @@
 # Hamba Uhambe Travel Blog
-![Website]()
+![Website](https://github.com/deanwraith/travelblog)
 
 Hamba Uhambe is a travel blog where I post stories of various travels and trips I have taken in my life as a form of a journal to share with my family. Hamba Uhambe is Zulu for Go for a walk.
 
@@ -87,8 +87,15 @@ The devices used were:
 
 ## Developement Cycle
 ### Commit Diary
-    * 17:07 30/07/2021 - Initial Commit
-    Added boiler plate HTML and assets folder which includes the style.css file and a folder for media resources to be added at a later stage.
+    * 6:20 29/06/2022 - Deployment Commit
+    * 6:54 29/06/2022 - Created models and admin views
+    * 7:31 29/06/2022 - Created Post views
+    * 8:57 29/06/2022 - Added Authorisation and Styling
+    * 10:02 29/06/2022 - Added comment and like function and styling
+    * 12:54 29/06/2022 - Added Category Model
+    * 22:29 30/06/2022 - Edited Styling
+    * 10:17 01/07/2022 - Edited Styling
+    * 6:20 03/07/2022 - Edited README.md
     
 [Back to Table of Contents](#table-of-contents)
 
@@ -108,7 +115,10 @@ The devices used were:
 
 The site has been deployed using Heroku.
 
-* In the Github repository page for deanwraith/rock_paper_scissors_game the settings tab was selected.
+* The Github repository was linked to the Heroku app generator.
+* The settings were adjusted to match the required requirements.
+
+* The blog was then live and can be found at 
 
 [Back to Table of Contents](#table-of-contents)
 
