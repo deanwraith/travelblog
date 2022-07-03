@@ -1,5 +1,5 @@
 # Hamba Uhambe Travel Blog
-![Website](https://github.com/deanwraith/travelblog)
+![Website](https://github.com/deanwraith/travelblog)(https://travelblog22.herokuapp.com/)
 
 Hamba Uhambe is a travel blog where I post stories of various travels and trips I have taken in my life as a form of a journal to share with my family. Hamba Uhambe is Zulu for Go for a walk.
 
@@ -95,7 +95,7 @@ The devices used were:
     * 12:54 29/06/2022 - Added Category Model
     * 22:29 30/06/2022 - Edited Styling
     * 10:17 01/07/2022 - Edited Styling
-    * 6:20 03/07/2022 - Edited README.md
+    * 8:38 03/07/2022 - Edited README.md
     
 [Back to Table of Contents](#table-of-contents)
 
@@ -118,7 +118,7 @@ The site has been deployed using Heroku.
 * The Github repository was linked to the Heroku app generator.
 * The settings were adjusted to match the required requirements.
 
-* The blog was then live and can be found at 
+* The blog was then live and can be found at https://travelblog22.herokuapp.com/
 
 [Back to Table of Contents](#table-of-contents)
 
